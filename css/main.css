@@ -17,6 +17,9 @@ a:link, a:visited{
 a:hover, a:active, a:focus{
 	color:#E2001A;
 }
+footer{
+	height:150px;
+}
 
 #home{
 	height:500px;
@@ -34,9 +37,21 @@ a:hover, a:active, a:focus{
 	height:500px;
 }
 #midia{
-	text-align:center;
+	height:500px;
 }
-
+#logo_header{
+	margin-right:20px;
+	float:right;
+}
+#listra_azul{
+	height:3px;
+	width:100%;
+	background-color:#2879B9;
+	margin-top:75px;
+}
+#endereco{
+	font:Comic Sans;
+}
 .espacoDeTransicao{
 	padding-top:75px;
 }
@@ -45,12 +60,12 @@ a:hover, a:active, a:focus{
 	
 	height:35px;
 	width:80px;
-	margin-right:10px;
+	margin-right:60px;
 	float:right;
 }
 .fundoClaro{
-	background-color:#a2daf4;
+	background-color:#FFFFFF;
 	}
 .fundoEscuro{
-	background-color:#009ee0;
+	background-color:#2879B9;
 }
